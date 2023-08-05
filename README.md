@@ -12,6 +12,23 @@ The main objective of this project is to demonstrate how to work with point clou
 4. Visualization: With the help of a basic graphical user interface (GUI) using Tkinter to visualize the generated point cloud data.
 
 
+
+
+
+
+
+
+
+
+
+
+ ![data](https://github.com/bipsec/pointcloud-demo-project/assets/66509972/b78e45cd-5c89-4986-a124-c95e8c7d1555)
+
+
+
+
+
+
 ## Up and Run
 
 
